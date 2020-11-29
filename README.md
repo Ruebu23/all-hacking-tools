@@ -190,9 +190,9 @@
 
     git clone https://github.com/whoami2k2k/all-hacking-tool.git
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 all-hacking-tool  
     
-    cd hackingtool
+    cd all-hacking-tool
     
     sudo pip3 install -r requirement.txt
 
